@@ -1,0 +1,34 @@
+{
+  "name": "diff-quick",
+  "version": "1.0.0",
+  "description": "Zero-dependency text and array diff using the Myers algorithm",
+  "main": "src/index.js",
+  "bin": {
+    "diff-quick": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "diff",
+    "myers",
+    "text-diff",
+    "patch",
+    "unified-diff",
+    "zero-dependency"
+  ],
+  "license": "MIT",
+  "author": "sulthonzh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulthonzh/diff-quick"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ]
+}
