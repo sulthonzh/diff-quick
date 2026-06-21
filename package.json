@@ -24,11 +24,15 @@
     "url": "https://github.com/sulthonzh/diff-quick"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   },
   "files": [
     "src",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "homepage": "https://github.com/sulthonzh/diff-quick",
+  "bugs": {
+    "url": "https://github.com/sulthonzh/diff-quick/issues"
+  }
 }
