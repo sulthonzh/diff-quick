@@ -34,5 +34,8 @@
   "homepage": "https://github.com/sulthonzh/diff-quick",
   "bugs": {
     "url": "https://github.com/sulthonzh/diff-quick/issues"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.31.0"
   }
 }
